@@ -1,0 +1,5 @@
+{
+  "name": "InsurAI Classifier",
+  "description": "An intelligent insurance claim classification system using Generative AI to predict coverage codes and accident sources, featuring a dataset chatbot.",
+  "requestFramePermissions": []
+}
