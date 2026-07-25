@@ -136,25 +136,6 @@ http://localhost:5173
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```
-assets/homepage.png
-assets/result.png
-```
-
-```markdown
-![Home Page](assets/homepage.png)
-
-![Classification Result](assets/result.png)
-```
-
----
-
 # 💡 Use Cases
 
 - Insurance document categorization
