@@ -190,8 +190,8 @@ git push origin feature-name
 
 **Ram Ritheesh**
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- GitHub: https://github.com/ramritheesh
+- LinkedIn: https://linkedin.com/in/k-v-ram-ritheesh-068122300/
 
 ---
 
